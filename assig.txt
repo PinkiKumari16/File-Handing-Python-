@@ -1,0 +1,14 @@
+I love my paresent.
+My world is my family.
+python class and objects
+we have already discussed in previous tutorial,
+a class is a virtual entity and can be seen as a blueprint of an object.
+the class came into existence when it instatiated. 
+let's understand it by an example.
+on the other hand the object is the instance of a class.
+the process of creating an object can be called instantiation.
+in this section of the tutorial
+we will discuss creating classes and objects in python .
+we will also discuss how a class attribute is accessed by using the object.
+i am good pinki and i am quick learner
+
